@@ -7,5 +7,7 @@ public class conditional_statement {
         if (num1 > 0){
             System.out.println("its a postive number:");
         }
+        else{
+            System.out.println("its a postive number:");
     }
     }
