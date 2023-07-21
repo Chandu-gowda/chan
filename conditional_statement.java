@@ -8,6 +8,6 @@ public class conditional_statement {
             System.out.println("its a postive number:");
         }
         else{
-            System.out.println("its a postive number:");
+            System.out.println("its a negative number:");
     }
     }
